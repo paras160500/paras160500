@@ -2,7 +2,7 @@
 
 # 👨‍💻 Paras — AI/ML Engineer & LLM Architect
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=BUILDING%20INTELLIGENT%20AI%20SYSTEMS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=BUILDING%20AI%20SYSTEMS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 <p>
   <a href="https://linkedin.com/in/paras160500" target="_blank">
