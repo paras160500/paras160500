@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="assets/paras_123.svg" width="100%" alt="Paras Patel - AI/ML Engineer portfolio">
+<img src="assets/profile_sample_svg_file.svg" width="100%" alt="Paras Patel - AI/ML Engineer portfolio">
 
 <br>
 
